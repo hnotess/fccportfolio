@@ -121,11 +121,20 @@ p {
 
 #parallax-header {
 	background-image: url("https://dl.dropboxusercontent.com/u/17230555/beachparallaxheader.jpg");
+	background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #parallax-footer {
 	background-image: url("https://dl.dropboxusercontent.com/u/17230555/beachparallaxfooter.jpg");
+	background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
 
 #skill-list {
   word-spacing: 0.2em;
@@ -139,3 +148,6 @@ p {
   display: inline-block;
 }
 
+header {
+  background: transparent; 
+}
