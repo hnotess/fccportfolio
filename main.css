@@ -133,6 +133,8 @@ p {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background: transparent; 
+
 }
 
 
@@ -151,3 +153,4 @@ p {
 header {
   background: transparent; 
 }
+
