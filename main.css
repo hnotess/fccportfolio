@@ -120,7 +120,7 @@ p {
 }
 
 #parallax-header {
-	background-image: url("https://dl.dropboxusercontent.com/u/17230555/beachparallaxheader.jpg");
+	background-image: url("images/beachparallaxheader.jpg");
 	background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -128,7 +128,7 @@ p {
 }
 
 #parallax-footer {
-	background-image: url("https://dl.dropboxusercontent.com/u/17230555/beachparallaxfooter.jpg");
+	background-image: url("images/beachparallaxfooter.jpg");
 	background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
